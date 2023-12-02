@@ -7,13 +7,13 @@
 :root {
   /* Color */
   --text-color: #222222;
-  --surface: #c0c0c0;
+  --surface: #e6d8ae;
   --button-highlight: #ffffff;
   --button-face: #dfdfdf;
   --button-shadow: #808080;
   --window-frame: #0a0a0a;
-  --dialog-blue: #000080;
-  --dialog-blue-light: #1084d0;
+  --dialog-blue: #800000;
+  --dialog-blue-light: #be9936;
   --dialog-gray: #808080;
   --dialog-gray-light: #b5b5b5;
   --link-blue: #0000ff;
